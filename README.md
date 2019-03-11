@@ -15,6 +15,7 @@ sqlite3.16.2
 
 <img src="https://github.com/GGG1235/raspberrypi/blob/master/images/5.png" width="375" alt="error">
 网上看到4中解决方案:
+
 >> 1、线程同步
 >> 2、写函数对数据库状态进行判断
 >> 3、对数据库操作次数延时
