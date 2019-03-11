@@ -1,7 +1,7 @@
 # raspberrypi
 
 ## 环境:
-![neofetch](https://github.com/GGG1235/raspberrypi/blob/master/images/1.png =200x)
+<img src="https://github.com/GGG1235/raspberrypi/blob/master/images/1.png" width="375" alt="neofetch">
 
 树莓派3b+
 
