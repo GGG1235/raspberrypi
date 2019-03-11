@@ -1,0 +1,18 @@
+  .',;:cc;,'.    .,;::c:,,.    pi@raspberrypi
+ ,ooolcloooo:  'oooooccloo:    --------------
+ .looooc;;:ol  :oc;;:ooooo'    OS: Raspbian GNU/Linux 9.8 (stretch) armv7l
+   ;oooooo:      ,ooooooc.     Model: Raspberry Pi 3 Model B Plus Rev 1.3
+     .,:;'.       .;:;'.       Kernel: 4.14.98-v7+
+     .... ..'''''. ....        Uptime: 19 minutes
+   .''.   ..'''''.  ..''.      Packages: 621
+   ..  .....    .....  ..      Shell: bash 4.4.12
+  .  .'''''''  .''''''.  .     CPU: ARMv7 rev 4 (v7l) (4) @ 1.4GHz
+.'' .''''''''  .'''''''. ''.   Memory: 50MB / 927MB
+'''  '''''''    .''''''  '''
+.'    ........... ...    .'.   ████████████████████████
+  ....    ''''''''.   .''.
+  '''''.  ''''''''. .'''''
+   '''''.  .'''''. .'''''.
+    ..''.     .    .''..
+          .'''''''
+           ......
